@@ -19,6 +19,7 @@ h2 {
 nav {
   background-color: #DCDCDC;
   padding: .5rem 10rem .5rem;
+  color: black;
 }
 
 h3 {
@@ -84,4 +85,9 @@ footer {
 a {
   text-decoration: none;
   color: #2C9DBB;
+}
+
+.index-link {
+  text-decoration: none;
+  color: black;
 }
