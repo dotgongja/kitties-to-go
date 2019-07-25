@@ -1,0 +1,87 @@
+header {
+  background-color: #2C9DBB;
+  padding: 2rem 10rem 2rem;
+}
+
+h1 {
+  color: white;
+  font-size: 3rem;
+  font-family: "arial", "verdana", sans-serif;
+}
+
+h2 {
+  color: white;
+  font-style: oblique;
+  font-size: 1.5rem;
+  line-height: 1.5rem;
+}
+
+nav {
+  background-color: #DCDCDC;
+  padding: .5rem 10rem .5rem;
+}
+
+h3 {
+  font-family: "arial", "verdana", sans-serif;
+  text-transform: uppercase;
+
+}
+
+aside {
+  width: 30rem;
+  float: right;
+  padding: 2rem 10rem 2rem 6rem;
+}
+
+article {
+  padding: 2rem 2rem 10rem 10rem;
+}
+
+p {
+  font-family: "arial", "verdana", sans-serif;
+  color: #333333;
+  line-height: 1.5rem;
+}
+
+blockquote {
+  font-family: "arial", "verdana", sans-serif;
+  color: #2C9DBB;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  font-size: 1.5rem;
+  margin-left: 0px;
+}
+
+.article-p {
+font-family: "arial", "verdana", sans-serif;
+color: #2C9DBB;
+font-size: 1.5rem;
+font-weight: bold;
+}
+
+figure {
+  margin: 0px;
+}
+
+footer {
+  background-color: #333333;
+  clear: right;
+  padding: 2rem 35rem 2rem;
+}
+
+.footer {
+  color: white;
+  text-align: center;
+}
+
+.image-center {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 2rem;
+  display: block;
+}
+
+a {
+  text-decoration: none;
+  color: #2C9DBB;
+}
