@@ -22,6 +22,11 @@ nav {
   color: black;
 }
 
+nav a {
+  padding: 3rem;
+  margin: 3rem;
+}
+
 h3 {
   font-family: "arial", "verdana", sans-serif;
   text-transform: uppercase;
@@ -84,7 +89,6 @@ footer {
 
 a {
   text-decoration: none;
-  color: #2C9DBB;
 }
 
 .index-link {
